@@ -12,7 +12,7 @@ This ViewController will be loaded first, which contains SearchBar and TableView
     This will load list of Netflix Shows available in the [api.tvmaze.com](http://api.tvmaze.com/search/shows?q=netflix) api
  ##### SearchBar 
     This SearchBar Delegate will filter the data based on keystrokes in the Search field
-      *  used higher order function - filter to filter an array
+      *  used higher order function - filter to filter the netflix array
       
 ### APICallManager
 
